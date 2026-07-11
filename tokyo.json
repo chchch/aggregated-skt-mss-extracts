@@ -1,0 +1,4754 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/collection3.json",
+  "type": "Collection",
+  "summary": {
+    "en": [
+      "This database provides the digital surrogates of Sanskrit manuscripts stored in the general library of the University of Tokyo. The descrition of this collection is available on the Website of the Library (written in Japanese). This Web site is built and maintained by the Department of Indian Philosophy and Buddhist Studies, Graduate School of Humanities and Sociology, The University of Tokyo and The SAT Daizōkyō Database Committee with technical support from the International Institute for Digital Humanities. This project was funded by UTokyo Digital Archives Project (2020-2022), and KAKENHI JP15H05725, JP19H00516, JP23H00002, and JP23H03696."
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "The University of Tokyo and The SAT Daizōkyō Database Committee"
+      ]
+    }
+  },
+  "label": {
+    "en": [
+      "Database for Sanskrit manuscripts in the UTokyo Library"
+    ]
+  },
+  "items": [
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0001/manifest.json",
+      "label": {
+        "en": [
+          "Ajīrṇamañjarī (?) (Matsunami Catalogue 1)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0002/manifest.json",
+      "label": {
+        "en": [
+          "Adhyātmasāraṭīkā (Matsunami Catalogue 2)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0003/manifest.json",
+      "label": {
+        "en": [
+          "Aparimitā nāma dhāraṇī (?) (Matsunami Catalogue 3)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0004/manifest.json",
+      "label": {
+        "en": [
+          "Aparimitāyur nāma mahāyānasūtra (Matsunami Catalogue 4)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0005/manifest.json",
+      "label": {
+        "en": [
+          "Aparimitāyur nāma mahāyānasūtra (Matsunami Catalogue 5)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0006/manifest.json",
+      "label": {
+        "en": [
+          "Aparimitāyur nāma mahāyānasūtra (Matsunami Catalogue 6)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0007/manifest.json",
+      "label": {
+        "en": [
+          "Aparimitāyur nāma mahāyānasūtra (Matsunami Catalogue 7)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0008/manifest.json",
+      "label": {
+        "en": [
+          "Sphuṭārthā Abhidharmakośavyākhyā (Matsunami Catalogue 8)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0009/manifest.json",
+      "label": {
+        "en": [
+          "Sphuṭārthā Abhidharmakośavyākhyā (Matsunami Catalogue 9)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0010/manifest.json",
+      "label": {
+        "en": [
+          "Abhidhānottaratantra (Matsunami Catalogue 10)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0011/manifest.json",
+      "label": {
+        "en": [
+          "Abhidhānottaratantra (Matsunami Catalogue 11)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0012/manifest.json",
+      "label": {
+        "en": [
+          "Abhidhānottaratantra (Matsunami Catalogue 012)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0013/manifest.json",
+      "label": {
+        "en": [
+          "Abhisamayālaṅkārālokā Prajñāpāramitāvyakhyā [Ch.1-Ch.3, cf. Wogihara's edition.] (Matsunami Catalogue 13)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0014/manifest.json",
+      "label": {
+        "en": [
+          "Amarakośa (Matsunami Catalogue 14)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0015/manifest.json",
+      "label": {
+        "en": [
+          "Amarakośa (Matsunami Catalogue 15)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0016/manifest.json",
+      "label": {
+        "en": [
+          "Amarakośa (Matsunami Catalogue 16)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0017/manifest.json",
+      "label": {
+        "en": [
+          "Amarakośa (Matsunami Catalogue 17)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0018/manifest.json",
+      "label": {
+        "en": [
+          "Amṛtakaṇikoddyota (Matsunami Catalogue 18)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0019/manifest.json",
+      "label": {
+        "en": [
+          "Amṛtalahari (Matsunami Catalogue 19)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0020/manifest.json",
+      "label": {
+        "en": [
+          "Amoghapāśahṛdaya (Matsunami Catalogue 20)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0021/manifest.json",
+      "label": {
+        "en": [
+          "Amoghapāśahṛdaya, Amoghapāśa-nāma-hṛdaya-mahāyāna-sūtra, Prajñāpāramitāhṛdaya, Prajñāpāramitā-hṛdaya (Matsunami Catalogue 21)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0022/manifest.json",
+      "label": {
+        "en": [
+          "Amoghapāśahṛdaya, Amoghapāśa-nāma-hṛdayaṃ-mahāyāna-sūtra (fols.1b1~16a) , Avalokiteśvarasya Abhayaṃkarī dhāraṇī,  Avalokiteśvarasya abhayaṃkarī-dhāraṇī (fols.16b~17a)  (Matsunami Catalogue 22)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0023/manifest.json",
+      "label": {
+        "en": [
+          "Amoghapāśahṛdaya, Amoghapāśa-hṛdaya (fols.1b1~10b6), Sragdharāstotra, Śragdharā-stotra (fols.10b6~16b4) (Matsunami Catalogue 23)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0024/manifest.json",
+      "label": {
+        "en": [
+          "Arthasugandhā (Matsunami Catalogue 24)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0025/manifest.json",
+      "label": {
+        "en": [
+          "Avadānaratnamālā (Matsunami Catalogue 25)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0026/manifest.json",
+      "label": {
+        "en": [
+          "Avadānaratnamālā, Avadāna-ratna-mālā [only three chapters.], Tripiṭāvadāna, Tripiṭâvadāna (the 20th story of the complete one No. 27), (9 leaves), Dhārāmukhavajrapāṇigopālakalubdhakadamanāvadāna, Dhārāmukha-vajrapāṇi-gopālaka-lubdhaka-damanâvadāna (the 26th story of the complete one No. 27), (7 leaves), Lakuñcikāvadāna, Lakuṃcikâvadāna (the 21st story of the complete one No. 27), (8 leaves, fragment, the end is missing) (Matsunami Catalogue 26)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0027/manifest.json",
+      "label": {
+        "en": [
+          "Avadānaratnamālā (Matsunami Catalogue 27)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0028/manifest.json",
+      "label": {
+        "en": [
+          "Avadānaśataka (Matsunami Catalogue 28)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0029/manifest.json",
+      "label": {
+        "en": [
+          "Avadānas and Kathās, Avadānas and Kathās (Collection of -), [from the Diviyâvadāna etc.]., Brāhmaṇadārikāvadāna, Brāhmaṇa-dārikâvadāna (3 leaves, being the 4th ch. of the Divyâvadāna, cf. Cowell's ed.), Stutibrāhmaṇadārikāvadāna, Stuti-brāhmaṇa-dārikâvadāna 2 leaves, being the 5th ch. of the Divyâvadāna, cf. Cowell's ed.), Viśvāntarāvadāna, Viśvantarâvadāna (15 leaves, = No.376), Pānadānakathā, Pāna-dāna-kathā (3 leaves, being the 13th ch. of Dvāviṃśaty-avadāna-kathā, cf. No. 180), Puṇyaprotsāhakathā, Puṇyaprotsāha-kathā (?) (3 leaves, being the 1st ch. of Dvāviṃśaty-avadāna-kathā, cf. No.180), Praṇāma-kathā (5 leaves, being the 16th ch. of the Dvāviṃśaty-avadāna-kathā, cf. No. 180), Maṇḍalakathāparivarta, Maṇḍala-kathā-parivartta (4 leaves, being the 11th ch. of the Dvāviṃśaty-avadāna-kathā, cf. No. 180), Vastradānakathāparivarta, Vastra-dāna-kathā-parivartta (3 leaves, being the 14th ch. of the Dvāviṃśaty-avadāna-kathā, cf. No. 180), Kuṅkumādidānakathāparivarta, Kuṃkum'ādi-dāna-kathā-parivartta (6 leaves, being the 7th ch. of the Dvāviṃśaty-avadāna-kathā, cf. No. 180) (Matsunami Catalogue 29)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0030/manifest.json",
+      "label": {
+        "en": [
+          "Avayavinirākaraṇa (Matsunami Catalogue 30)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0031/manifest.json",
+      "label": {
+        "en": [
+          "Avayavinirākaraṇa (Matsunami Catalogue 31)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0032/manifest.json",
+      "label": {
+        "en": [
+          "Guṇakāraṇḍavyūha (Matsunami Catalogue 32)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0033/manifest.json",
+      "label": {
+        "en": [
+          "Guṇakāraṇḍavyūha (Matsunami Catalogue 33)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0034/manifest.json",
+      "label": {
+        "en": [
+          "Aśokadamanāvadāna (Matsunami Catalogue 34)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0035/manifest.json",
+      "label": {
+        "en": [
+          "Aśokâvadāna-mālā (Matsunami Catalogue 35)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0036/manifest.json",
+      "label": {
+        "en": [
+          "Aśokāvadānamālā (Matsunami Catalogue 36)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0037/manifest.json",
+      "label": {
+        "en": [
+          "Aśokāvadānamālā (Matsunami Catalogue 37)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0038/manifest.json",
+      "label": {
+        "en": [
+          "Aśvaghoṣāvadāna (Matsunami Catalogue 38)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0039/manifest.json",
+      "label": {
+        "en": [
+          "Aśvaghoṣāvadāna, Aśvaghoṣâvadāna (the full name given is Vasudhārā-vrata-pūrva-mṛ(for ūr)tya-maṇḍal'-āgata-kathā) , Aparimitāyurdhāraṇī, Aparimitāyu-dhāraṇī [fragment] (Matsunami Catalogue 39)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0040/manifest.json",
+      "label": {
+        "en": [
+          "Aśvaghoṣāvadāna (Matsunami Catalogue 40)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0041/manifest.json",
+      "label": {
+        "en": [
+          "Aśvaghoṣāvadāna (Matsunami Catalogue 41)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0042/manifest.json",
+      "label": {
+        "en": [
+          "Aṣṭamīvratamāhātmyakuśāvadāna (Matsunami Catalogue 42)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0043/manifest.json",
+      "label": {
+        "en": [
+          "Asṭasāhasrikā Prajñāpāramitā (Matsunami Catalogue 43)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0044/manifest.json",
+      "label": {
+        "en": [
+          "Aṣṭasāhasrikā Prajñāpāramitā (Matsunami Catalogue 44)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0045/manifest.json",
+      "label": {
+        "en": [
+          "Aṣṭasāhasrikā Prajñāpāramitā (Matsunami Catalogue 45)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0046/manifest.json",
+      "label": {
+        "en": [
+          "Aṣṭasāhasrikā Prajñāpāramitā (Matsunami Catalogue 46)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0047/manifest.json",
+      "label": {
+        "en": [
+          "Aṣṭasāhasrikā Prajñāpāramitā (Matsunami Catalogue 47)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0048/manifest.json",
+      "label": {
+        "en": [
+          "Aṣṭasāhasrikā Prajñāpāramitā (Matsunami Catalogue 48)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0049/manifest.json",
+      "label": {
+        "en": [
+          "Aṣṭasāhasrikā Prajñāpāramitā (Matsunami Catalogue 49)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0050a/manifest.json",
+      "label": {
+        "en": [
+          "Aṣṭasāhasrikā Prajñāpāramitā (Matsunami Catalogue 50)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0051/manifest.json",
+      "label": {
+        "en": [
+          "Aṣṭasāhasrikā Prajñāpāramitā (Matsunami Catalogue 51)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0052/manifest.json",
+      "label": {
+        "en": [
+          "Aṣṭasāhasrikā Prajñāpāramitā (Matsunami Catalogue 52)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0053/manifest.json",
+      "label": {
+        "en": [
+          "Astrological works (Matsunami Catalogue 53)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0054/manifest.json",
+      "label": {
+        "en": [
+          "Ahorātravratakathā (?) (Matsunami Catalogue 54)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0055/manifest.json",
+      "label": {
+        "en": [
+          "Ahorātravratacaityasēvānuśaṃsāvadāna (Matsunami Catalogue 55)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0056/manifest.json",
+      "label": {
+        "en": [
+          "Ākhyātaratnakośa (Matsunami Catalogue 56)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0057/manifest.json",
+      "label": {
+        "en": [
+          "Ādikarmapradīpa (Matsunami Catalogue 57)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0058/manifest.json",
+      "label": {
+        "en": [
+          "Ādiyogasamādhi (Matsunami Catalogue 58)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0059/manifest.json",
+      "label": {
+        "en": [
+          "Ālokamālā (Matsunami Catalogue 59)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0060/manifest.json",
+      "label": {
+        "en": [
+          "Indranāmabrāhmaṇāvadāna (Matsunami Catalogue 60)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0061/manifest.json",
+      "label": {
+        "en": [
+          "Ekajaṭādhāraṇī (Matsunami Catalogue 61)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0062/manifest.json",
+      "label": {
+        "en": [
+          "Ekajaṭādhāraṇī (Matsunami Catalogue 62)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0063/manifest.json",
+      "label": {
+        "en": [
+          "Caṇḍamahāroṣaṇatantra, Ekalla-vīra-śrī-caṇḍa-mahā-roṣaṇa-tantra, Bhairava, Bhairava (Matsunami Catalogue 63)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0064/manifest.json",
+      "label": {
+        "en": [
+          "Caṇḍamahāroṣaṇatantra (Matsunami Catalogue 64)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0065/manifest.json",
+      "label": {
+        "en": [
+          "Caṇḍamahāroṣaṇatantra (Matsunami Catalogue 65)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0066/manifest.json",
+      "label": {
+        "en": [
+          "Caṇḍamahāroṣaṇatantra (Matsunami Catalogue 66)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0067/manifest.json",
+      "label": {
+        "en": [
+          "Caṇḍamahāroṣaṇatantra (Matsunami Catalogue 67)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0068/manifest.json",
+      "label": {
+        "en": [
+          "Caṇḍamahāroṣaṇatantra (Matsunami Catalogue 68)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0069/manifest.json",
+      "label": {
+        "en": [
+          "Caṇḍamahāroṣaṇatantra (Matsunami Catalogue 69)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0070/manifest.json",
+      "label": {
+        "en": [
+          "Caṇḍamahāroṣaṇatantra (Matsunami Catalogue 70)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0071/manifest.json",
+      "label": {
+        "en": [
+          "Kaṅkirṇahṛdayadhāraṇī (Matsunami Catalogue 71)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0072/manifest.json",
+      "label": {
+        "en": [
+          "A Commentary on the Kaṭhināvadāna (Matsunami Catalogue 72)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0073/manifest.json",
+      "label": {
+        "en": [
+          "Kapilapātrāvadāna (Matsunami Catalogue 73)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0074/manifest.json",
+      "label": {
+        "en": [
+          "Kapilapātrāvadāna (Matsunami Catalogue 74)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0075/manifest.json",
+      "label": {
+        "en": [
+          "Kapīśāvadāna (Matsunami Catalogue 75)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0076/manifest.json",
+      "label": {
+        "en": [
+          "Kapīśāvadāna (Matsunami Catalogue 76)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0077/manifest.json",
+      "label": {
+        "en": [
+          "Kapīśāvadāna (Matsunami Catalogue 77)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0078/manifest.json",
+      "label": {
+        "en": [
+          "Karuṇāpuṇḍarīka (Matsunami Catalogue 78)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0079/manifest.json",
+      "label": {
+        "en": [
+          "Kalpadrumāvadāna (Matsunami Catalogue 79)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0080/manifest.json",
+      "label": {
+        "en": [
+          "Kalparājamahātantra (Matsunami Catalogue 80)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0081/manifest.json",
+      "label": {
+        "en": [
+          "Kavikalpalatā (Matsunami Catalogue 081)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0082/manifest.json",
+      "label": {
+        "en": [
+          "Kavikumārakathā (Matsunami Catalogue 82)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0083/manifest.json",
+      "label": {
+        "en": [
+          " (Matsunami Catalogue 83)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0084/manifest.json",
+      "label": {
+        "en": [
+          "Kātantra and Daurgasiṃhavṛtti (Matsunami Catalogue 84)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0085/manifest.json",
+      "label": {
+        "en": [
+          "Kātantragaṇavṛtti (Matsunami Catalogue 85)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0086/manifest.json",
+      "label": {
+        "en": [
+          "Kāraṇḍavyūha (Matsunami Catalogue 86)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0087/manifest.json",
+      "label": {
+        "en": [
+          "Kāraṇḍavyūha (Matsunami Catalogue 87)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0088/manifest.json",
+      "label": {
+        "en": [
+          "Kāraṇḍavyūha (Matsunami Catalogue 88)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0089/manifest.json",
+      "label": {
+        "en": [
+          "Kāraṇḍavyūha, Kāraṇḍa-vyūha nāma mahāyāna-sūtra-ratna-rāja, Nāmasaṅgīti, Nāma-saṅgīti, Vasudhārādhāraṇī, Vasudhāra-dhāraṇī, Vasudhārāyāḥ nāmāṣṭottaraśataka, Vasudhārāyāḥ nāmāṣṭottara-śataka (Matsunami Catalogue 89)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0090/manifest.json",
+      "label": {
+        "en": [
+          "Kāraṇḍavyūha (Matsunami Catalogue 90)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0091/manifest.json",
+      "label": {
+        "en": [
+          "Kāraṇḍavyūha (Matsunami Catalogue 91)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0092/manifest.json",
+      "label": {
+        "en": [
+          "Kāraṇḍavyūha (Matsunami Catalogue 92)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0093/manifest.json",
+      "label": {
+        "en": [
+          "Kāraṇḍavyūha (Matsunami Catalogue 93)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0094/manifest.json",
+      "label": {
+        "en": [
+          "Kāraṇḍavyūha (Matsunami Catalogue 94)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0095/manifest.json",
+      "label": {
+        "en": [
+          "Kārtavīryodaya (Matsunami Catalogue 95)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0096/manifest.json",
+      "label": {
+        "en": [
+          "Kārttikavratakathā (Matsunami Catalogue 96)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0097/manifest.json",
+      "label": {
+        "en": [
+          "Kārttikavratakathā (Matsunami Catalogue 97)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0098/manifest.json",
+      "label": {
+        "en": [
+          "Kārttikavratakathā (Matsunami Catalogue 98)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0099/manifest.json",
+      "label": {
+        "en": [
+          "Kālacakratantra (Matsunami Catalogue 99)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0100/manifest.json",
+      "label": {
+        "en": [
+          "Kālacakrapūjāvidhi, Kāla-cakrasya pūjā-vidhi, Kālacakrasādhanavidhi, Kāla-cakra-sādhana-vidhi (Matsunami Catalogue 100)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0101/manifest.json",
+      "label": {
+        "en": [
+          "Kirātārjunīya (Matsunami Catalogue 101)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0102-1/manifest.json",
+      "label": {
+        "en": [
+          "Kīrtiviṣayāvadānaparikarmakathā (Matsunami Catalogue 102-1)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0102-2/manifest.json",
+      "label": {
+        "en": [
+          "Piṇḍapātrāvadāna (Matsunami Catalogue 102-2)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0102-3/manifest.json",
+      "label": {
+        "en": [
+          "Kārttikavratakathā (Matsunami Catalogue 102-3)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0103/manifest.json",
+      "label": {
+        "en": [
+          "Kumārasambhava (Matsunami Catalogue 103)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0104/manifest.json",
+      "label": {
+        "en": [
+          "Kurukullākapla (Matsunami Catalogue 104)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0105/manifest.json",
+      "label": {
+        "en": [
+          "Kurukullākalpa (Matsunami Catalogue 105)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0106/manifest.json",
+      "label": {
+        "en": [
+          "Kulacaryāvadāna (Matsunami Catalogue 106)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0107/manifest.json",
+      "label": {
+        "en": [
+          "Kuliśyasvarabhāvanāguhya (?) (Matsunami Catalogue 107)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0108/manifest.json",
+      "label": {
+        "en": [
+          "Kuśopadeśanītisāra (Matsunami Catalogue 108)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0109/manifest.json",
+      "label": {
+        "en": [
+          "Kevalīśāstra (Matsunami Catalogue 109)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0110/manifest.json",
+      "label": {
+        "en": [
+          "Kausīdyavīryotsāhāvadāna (?) (Matsunami Catalogue 110)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0111/manifest.json",
+      "label": {
+        "en": [
+          "Kriyāsamuccaya (Matsunami Catalogue 111)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0112/manifest.json",
+      "label": {
+        "en": [
+          "Kriyāsaṅgrahapañjikā (Matsunami Catalogue 112)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0113/manifest.json",
+      "label": {
+        "en": [
+          "Kriyāsaṅgrahapañjikā (Matsunami Catalogue 113)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0114/manifest.json",
+      "label": {
+        "en": [
+          "Kriyāsaṅgrahapañjikā (Matsunami Catalogue 114)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0115/manifest.json",
+      "label": {
+        "en": [
+          "Kriyāsaṅgrahapañjikā (Matsunami Catalogue 115)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0116/manifest.json",
+      "label": {
+        "en": [
+          "Kriyāsaṅgrahapañjikā (Matsunami Catalogue 116)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0117/manifest.json",
+      "label": {
+        "en": [
+          "Kriyāsaṅgrahapañjikā (Matsunami Catalogue 117)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0118/manifest.json",
+      "label": {
+        "en": [
+          "Kriyāsaṅgrahapañjikā (Matsunami Catalogue 118)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0119/manifest.json",
+      "label": {
+        "en": [
+          "Gaṇḍavyūhasūtra (Matsunami Catalogue 119)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0120/manifest.json",
+      "label": {
+        "en": [
+          "Guhyasamājaparārdha (Matsunami Catalogue 120)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0121/manifest.json",
+      "label": {
+        "en": [
+          "Grahamātṛkādhāraṇī (Matsunami Catalogue 121)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0122/manifest.json",
+      "label": {
+        "en": [
+          "Grahamātṛkādhāraṇī (Matsunami Catalogue 122)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0123/manifest.json",
+      "label": {
+        "en": [
+          "Cakravyūhāṣṭadhākoṭavicāra, etc., Cakra-vyūhâṣṭadhā-koṭa-vicāra, etc. (Matsunami Catalogue 123)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0124/manifest.json",
+      "label": {
+        "en": [
+          "Cakrāvadāna (Matsunami Catalogue 124)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0125/manifest.json",
+      "label": {
+        "en": [
+          "Caturviṃśatipīṭhatantra (Matsunami Catalogue 125)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0126/manifest.json",
+      "label": {
+        "en": [
+          "Caturviṃśatipīṭhapūjāvidhi and Aṣṭamātṛkāpūjāvidhi, Catur-viṃśati-pīṭha-pūjā-vidhi and Aṣṭa-mātṛkā-pūjā-vidhi, Caturviṃśatipīṭhapūjāvidhi, Catur-viṃśati-pīṭha-pūjā-vidhi, Aṣṭamātṛkāpūjāvidhi, Aṣṭa-mātṛkā-pūjā-vidhi (Matsunami Catalogue 126)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0127/manifest.json",
+      "label": {
+        "en": [
+          "Cāṇakyasārasaṅgraha (Matsunami Catalogue 127)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0128/manifest.json",
+      "label": {
+        "en": [
+          "Caityapuṅgava (Matsunami Catalogue 128)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0129/manifest.json",
+      "label": {
+        "en": [
+          "Caityapuṅgava (Matsunami Catalogue 129)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0130/manifest.json",
+      "label": {
+        "en": [
+          "Caityavratānuśaṃsāvadāna (Matsunami Catalogue 130)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0131/manifest.json",
+      "label": {
+        "en": [
+          "Caityavratānuśaṃsāvadāna (Matsunami Catalogue 131)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0132/manifest.json",
+      "label": {
+        "en": [
+          "Caityavratānuśaṃsāvadāna (Matsunami Catalogue 132)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0133/manifest.json",
+      "label": {
+        "en": [
+          "Caurapañcāśikā and Ṭīkā (Matsunami Catalogue 133)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0134/manifest.json",
+      "label": {
+        "en": [
+          "Janmarājāmāhātmyadhāraṇī (?) (Matsunami Catalogue 134)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0135/manifest.json",
+      "label": {
+        "en": [
+          "Jātakamālā (Matsunami Catalogue 135)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0136/manifest.json",
+      "label": {
+        "en": [
+          "Jātakamālā (Matsunami Catalogue 136)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0137/manifest.json",
+      "label": {
+        "en": [
+          "Jātakamālāṭīkā (Matsunami Catalogue 137)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0138/manifest.json",
+      "label": {
+        "en": [
+          "Jātakamālā (Matsunami Catalogue 138)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0139/manifest.json",
+      "label": {
+        "en": [
+          "Jātakamālā (Matsunami Catalogue 139)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0140/manifest.json",
+      "label": {
+        "en": [
+          "Jātakarman, Jāta-karman(?), Rudrākṣalakṣaṇa, Rudrākṣa-lakṣaṇa (Matsunami Catalogue 140)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0141/manifest.json",
+      "label": {
+        "en": [
+          "Jātakālaṅkāra, Jātakâlaṃkāra, Kakṣapuṭa, Kakṣa-puṭa  (Matsunami Catalogue 141)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0142/manifest.json",
+      "label": {
+        "en": [
+          "Jñānodayatantra (Matsunami Catalogue 142)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0143/manifest.json",
+      "label": {
+        "en": [
+          "Jñānodayapañjikā (Matsunami Catalogue 143)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0144/manifest.json",
+      "label": {
+        "en": [
+          "Ḍākārṇavatantra (Matsunami Catalogue 144)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0145/manifest.json",
+      "label": {
+        "en": [
+          "Ḍākārṇavatantra (Matsunami Catalogue 145)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0146/manifest.json",
+      "label": {
+        "en": [
+          "Tattvajñānasaṃsiddhi (Matsunami Catalogue 146)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0147/manifest.json",
+      "label": {
+        "en": [
+          "Tattvajñānasaṃsiddhi, Tattva-jñāna-saṃsiddhi, Herukasya Sarvarāgapraśamanī dhāraṇī, Herukasya sarva-rāga-praśamanī dhāraṇī, Fragments, Fragments [fols. 8-10] (Matsunami Catalogue 147)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0148/manifest.json",
+      "label": {
+        "en": [
+          "Tattvajñānasaṃsiddhi, Tattva-jñāna-saṃsiddhi, Mārīcīdhāraṇī, Mārīcī-dhāraṇī [fragment.] (Matsunami Catalogue 148)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0149/manifest.json",
+      "label": {
+        "en": [
+          "Tattvajñānasaṃsiddhi with Marmakalikā (Matsunami Catalogue 149)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0150/manifest.json",
+      "label": {
+        "en": [
+          "Collection of Tantra Works, Tantra-works, (Collection of-), Caṇḍamāhāroṣaṇasādhana, Siddh'-aika-vīroddhṛtya(?) śrī-caṇḍa-mahā-roṣaṇa-sādhana, Sahajābhilāsa, Siddh'-aikaravīra-pratibhedāntara-sahāja-bhirāsa(?), Mañjuśrībhaṭṭārakapratijñādhāraṇī, Mañjuśrī-bhaṭṭārakasya pratijñā dhāraṇī, Ekajaṭādhāraṇī, Ekajaṭā dhāraṇī, Ekallavīracaṇḍamahāroṣaṇatantramantrapravara(?), Ekalla-vīra-śrī-mahā-roṣaṇa-tantra-mantra-pravara(?), Guhyeśvarīmantradhāraṇī, Guhyeśvarī mantra-dhāraṇī  (Matsunami Catalogue 150)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0151/manifest.json",
+      "label": {
+        "en": [
+          "Mahāsukhaprakāśa, Mahā-sukha-prakāśa, Kudṛṣṭinirghātana, Kudṛṣṭi-nighātaṇa, Kudṛṣṭinirghātavākyaṭippaṇikā, Kudṛṣṭi-nighati-vakṣi-ṭipinikā (Matsunami Catalogue 151)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0152/manifest.json",
+      "label": {
+        "en": [
+          "Jambhalasādhana, Vistara[jambhala]sādhana and another text (Matsunami Catalogue 152)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0153/manifest.json",
+      "label": {
+        "en": [
+          "Svalpavidhi (?) (Matsunami Catalogue 153)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0154/manifest.json",
+      "label": {
+        "en": [
+          "Namaskāraikaviṃśatistotra(?) (Matsunami Catalogue 154)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0155/manifest.json",
+      "label": {
+        "en": [
+          "Namaskāraikaviṃśatistotra (Matsunami Catalogue 155)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0156/manifest.json",
+      "label": {
+        "en": [
+          "Tārābhaktisudhārṇava (Matsunami Catalogue 156)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0157/manifest.json",
+      "label": {
+        "en": [
+          "Tārābhaṭṭārikāyā nāmāṣṭottaraśataka (Matsunami Catalogue 157)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0158/manifest.json",
+      "label": {
+        "en": [
+          "Tārābhaṭṭārikāya nāmāṣṭottaraśataka (Matsunami Catalogue 158)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0159/manifest.json",
+      "label": {
+        "en": [
+          "Tārābhaṭṭārikāyā nāmāṣṭottaraśataka, Tārā-bhaṭṭārikāyā nāmâṣṭôttara-śataka, Ajanyakalidhāraṇī(?), Ajanyakali-dhāraṇī (Matsunami Catalogue 159)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0160/manifest.json",
+      "label": {
+        "en": [
+          "Tārābhaṭṭārikāyā nāmāṣṭottaraśataka (Matsunami Catalogue 160)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0161/manifest.json",
+      "label": {
+        "en": [
+          "Tīrthacintāmaṇi (Matsunami Catalogue 161)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0162/manifest.json",
+      "label": {
+        "en": [
+          "Daśakarmakriyāvidhi (Matsunami Catalogue 162)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0163/manifest.json",
+      "label": {
+        "en": [
+          "Daśabalastavastotra(?) (Matsunami Catalogue 163)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0164/manifest.json",
+      "label": {
+        "en": [
+          "Daśabalastavastotra and other stotras, Daśa-bala-stava-stotra and other stotras, Daśabalastavastotra, Śrī-samyak-saṃbuddha-bhaṭṭārakasya daśa-balā-stava-stotram, Āryāvalokiteśvarabhaṭṭārakastotra(?), Śrī-āryāvalokiteśvara-bhaṭṭārakasya carapratipā-viracitaṃ stotram, Ratnamālāstavastotra(?>), Śrīmad-āryāvalokiteśvara-bhaṭṭārakasya ratna-mālā-stava-stotraṃ (Matsunami Catalogue 164)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0165/manifest.json",
+      "label": {
+        "en": [
+          "Daśabhūmikasūtra (Matsunami Catalogue 165)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0166/manifest.json",
+      "label": {
+        "en": [
+          "Daśabhūmikasūtra (Matsunami Catalogue 166)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0167/manifest.json",
+      "label": {
+        "en": [
+          "Daśabhūmikasūtra (Matsunami Catalogue 167)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0168/manifest.json",
+      "label": {
+        "en": [
+          "Dānakamalākara (Matsunami Catalogue 168)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0169/manifest.json",
+      "label": {
+        "en": [
+          "Dāridryavidrāvaṇa (Matsunami Catalogue 169)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0170/manifest.json",
+      "label": {
+        "en": [
+          "Divyāvadāna (Matsunami Catalogue 170)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0171/manifest.json",
+      "label": {
+        "en": [
+          "Divyāvadāna (Matsunami Catalogue 171)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0172/manifest.json",
+      "label": {
+        "en": [
+          "Dīpaṅkaratathāgatasya piṇḍapātrāvadānakathā (Matsunami Catalogue 172)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0173/manifest.json",
+      "label": {
+        "en": [
+          "Dīpaṅkaravastu (Matsunami Catalogue 173)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0174/manifest.json",
+      "label": {
+        "en": [
+          "Daurgasiṃhavṛtti (Matsunami Catalogue 174)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0175/manifest.json",
+      "label": {
+        "en": [
+          "Dvādaśasāhasrikā mahāpratyaṅgirā (Matsunami Catalogue 175)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0176/manifest.json",
+      "label": {
+        "en": [
+          "Dvādaśasāhasrikā mahāpratyaṅgirā (Matsunami Catalogue 176)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0177/manifest.json",
+      "label": {
+        "en": [
+          "Dvādaśasāhasrikā mahāpratyaṅgirā (Matsunami Catalogue 177)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0178/manifest.json",
+      "label": {
+        "en": [
+          "Dvādaśasāhasrikā mahāpratyaṅgirā (Matsunami Catalogue 178)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0179/manifest.json",
+      "label": {
+        "en": [
+          "Dvādaśasāhasrikā mahāpratyaṅagirā (Matsunami Catalogue 179)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0180/manifest.json",
+      "label": {
+        "en": [
+          "Dvāviṃśatyavadānakathā (Matsunami Catalogue 180)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0181/manifest.json",
+      "label": {
+        "en": [
+          "Dvāviṃśatyavadānakathā (Matsunami Catalogue 181)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0182/manifest.json",
+      "label": {
+        "en": [
+          "Dvāviṃśatyavadānakathā (Matsunami Catalogue 182)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0183/manifest.json",
+      "label": {
+        "en": [
+          "Dvāviṃśatyavadānakathā, Dvāviṃśaty-avadāna-kathā, Yajñādikṛtapuṇyakathā, Yajñ'-ādi-kṛta-puṇya-kathā (?) [4 leaves]., Fragment, Fragment[2 leaves about vidhi, fols 2 and 3]  (Matsunami Catalogue 183)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0184/manifest.json",
+      "label": {
+        "en": [
+          "Dhanaṃjayanighaṇṭa (Matsunami Catalogue 184)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0185/manifest.json",
+      "label": {
+        "en": [
+          "Dhanaṃjayanighaṇṭa (Matsunami Catalogue 185)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0186/manifest.json",
+      "label": {
+        "en": [
+          "Dharmakośasaṅgraha (Matsunami Catalogue 186)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0187/manifest.json",
+      "label": {
+        "en": [
+          "Dharmarucyavadāna (Matsunami Catalogue 187)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0188/manifest.json",
+      "label": {
+        "en": [
+          "Dhātupāṭha (Matsunami Catalogue 188)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0189/manifest.json",
+      "label": {
+        "en": [
+          "Dhāraṇī collection, Dhāraṇī collection (fols. 1-32a1), (ON. 185), Svayambhūcaityabhaṭṭārakoddeśa, Svayambhū-caitya-bhaṭṭārakôddeśa (small one), (fols. 32a2-57b1). (ON. 140), Aśvaghoṣāvadāna, Aśvaghoṣâvadāna (the full name given is Vasuṃdhārā-devī-vrata-saṃpūrṇṇa-aśvaghoṣa-avadāna, cf. Bendall's Cat. p. 118.), (fols. 57b2-80), (ON. 141). (Matsunami Catalogue 189)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0190/manifest.json",
+      "label": {
+        "en": [
+          "Dhāraṇī collection (Matsunami Catalogue 190)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0191/manifest.json",
+      "label": {
+        "en": [
+          "Dhāraṇī collection, Dhāraṇī collection, Vasudhārāṣṭottaraśataka, Vasudhārā aṣṭôttara-śataka, Vajravidhāraṇadhāraṇī, Vajra-vidāraṇa-dhāraṇī, Gaṇapatihṛdayamūlamantra, Gaṇapati-hṛdaya-mūla-mantra, Uṣṇīṣavijayādhāraṇī, Uṣṇīṣa-vijayā dhāraṇī, Parṇaśabarīdhāraṇī, Parṇṇa-śabarī dhāraṇī, Mārīcīdevatādhāraṇī, Mārici-devatā dhāraṇī, Grahamātṛkādhāraṇī, (Nava-)graha-mātṛkā dhāraṇī (Matsunami Catalogue 191)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0192/manifest.json",
+      "label": {
+        "en": [
+          "Dhāraṇī collection, Dhāraṇī collection, Vasudhārānāmāṣṭottaraśataka, Vasudhārāyā nāmāṣṭôttara-śataka, Vajravidhāraṇadhāraṇīhṛdayopadeśamūlamantra(?), Vajra-vidāraṇo dhāraṇī hṛdayôpadeṣa(?)-mūla-mantra, Gaṇapatihṛdayadhāraṇīmūlamantrasūtra, Gaṇapati-hṛdaya-dhāraṇī mūla-mantra-sūtra, Uṣṇīṣavijayādhāraṇī, Uṣṇīṣa-vijayā dhāraṇī, Parṇaśabarīmahāmārīpraśamanīdhāraṇī, Parṇṇa-śavarī mahā-mārī-praśamaṇī dhāraṇī, Mārīcīdhāraṇī, Mārīcī dhāraṇī, Grahamātṛkādhāraṇī, Graha-mātṛkā dhāraṇī (Matsunami Catalogue 192)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0193/manifest.json",
+      "label": {
+        "en": [
+          "Dhāraṇī collection (Matsunami Catalogue 193)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0194/manifest.json",
+      "label": {
+        "en": [
+          "Dhāraṇī collection (Matsunami Catalogue 194)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0195/manifest.json",
+      "label": {
+        "en": [
+          "Dhāraṇī collection, Dhāraṇī collection [See No. 191]., Aśvaghoṣanandimukhāvadāna, Aśvaghoṣa-nandimukhâvadāna [See No. 189-III].  (Matsunami Catalogue 195)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0196/manifest.json",
+      "label": {
+        "en": [
+          "Dhāraṇīsaṅgraha (Matsunami Catalogue 196)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0197/manifest.json",
+      "label": {
+        "en": [
+          "Dhāraṇī collection (Matsunami Catalogue 197)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0198/manifest.json",
+      "label": {
+        "en": [
+          "Dhāraṇī collection (Matsunami Catalogue 198)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0199/manifest.json",
+      "label": {
+        "en": [
+          "Dhāraṇī collection (Matsunami Catalogue 199)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0200/manifest.json",
+      "label": {
+        "en": [
+          "Dhāraṇī collection (Matsunami Catalogue 200)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0201/manifest.json",
+      "label": {
+        "en": [
+          "Dhāraṇīsaṅgrahapurāṇa (Matsunami Catalogue 201)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0202/manifest.json",
+      "label": {
+        "en": [
+          "Collection of dhāraṇī, stotra and sādhana (Matsunami Catalogue 202)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0203/manifest.json",
+      "label": {
+        "en": [
+          "Dhvajāgrakeyūrādhāraṇī and a dhāraṇī (Matsunami Catalogue 203)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0204/manifest.json",
+      "label": {
+        "en": [
+          "Nagarāvalambikāvadāna (Matsunami Catalogue 204)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0205/manifest.json",
+      "label": {
+        "en": [
+          "Narakoddhārastava (Matsunami Catalogue 205)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0206/manifest.json",
+      "label": {
+        "en": [
+          "Navagrahāṇāṃ vidhiḥ and other texts (Matsunami Catalogue 206)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0207/manifest.json",
+      "label": {
+        "en": [
+          "Nāmasaṅgīti (Matsunami Catalogue 207)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0208/manifest.json",
+      "label": {
+        "en": [
+          "Nāmasaṅgīti (Matsunami Catalogue 208)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0209/manifest.json",
+      "label": {
+        "en": [
+          "Nāmasaṅgīti (Matsunami Catalogue 209)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0210/manifest.json",
+      "label": {
+        "en": [
+          "Nāmasaṅgīti (Matsunami Catalogue 210)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0211/manifest.json",
+      "label": {
+        "en": [
+          "Nāmasaṅgīti and 7 other texts (Matsunami Catalogue 211)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0212/manifest.json",
+      "label": {
+        "en": [
+          "Nāmasaṅgīti (Matsunami Catalogue 212)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0213/manifest.json",
+      "label": {
+        "en": [
+          "Nāmasaṅgīti (Matsunami Catalogue 213)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0214/manifest.json",
+      "label": {
+        "en": [
+          "Nāmasaṅgīti (Matsunami Catalogue 214)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0215/manifest.json",
+      "label": {
+        "en": [
+          "Niṣpannayogāvalī (Matsunami Catalogue 215)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0216/manifest.json",
+      "label": {
+        "en": [
+          "Niṣpannayogāvalī (Matsunami Catalogue 216)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0217/manifest.json",
+      "label": {
+        "en": [
+          "Niṣpannayogāvalī (Matsunami Catalogue 217)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0218/manifest.json",
+      "label": {
+        "en": [
+          "Nṛsiṃhadivyasahasranāmastotra (Matsunami Catalogue 218)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0219/manifest.json",
+      "label": {
+        "en": [
+          "Naiṣadhīyacarita with Naiṣadhīyaprakāśa (Matsunami Catalogue 219)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0220/manifest.json",
+      "label": {
+        "en": [
+          "Pañcarakṣā (Matsunami Catalogue 220)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0221-1/manifest.json",
+      "label": {
+        "en": [
+          "Pañcarakṣā (Matsunami Catalogue 221-1)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0221-2/manifest.json",
+      "label": {
+        "en": [
+          "Grahamātṛkādhāraṇī (Matsunami Catalogue 221-2)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0222/manifest.json",
+      "label": {
+        "en": [
+          "Pañcarakṣā (Matsunami Catalogue 222)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0223/manifest.json",
+      "label": {
+        "en": [
+          "Pañcarakṣā (Matsunami Catalogue 223)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0224/manifest.json",
+      "label": {
+        "en": [
+          "Pañcarakṣā (Matsunami Catalogue 224)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0225/manifest.json",
+      "label": {
+        "en": [
+          "Pañcarakṣā (Matsunami Catalogue 225)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0226/manifest.json",
+      "label": {
+        "en": [
+          "Pañcarakṣā (Matsunami Catalogue 226)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0227/manifest.json",
+      "label": {
+        "en": [
+          "Pañcarakṣā (Matsunami Catalogue 227)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0228/manifest.json",
+      "label": {
+        "en": [
+          "Pañcarakṣā (Matsunami Catalogue 228)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0229/manifest.json",
+      "label": {
+        "en": [
+          "Pañcarakṣā (Matsunami Catalogue 229)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0230/manifest.json",
+      "label": {
+        "en": [
+          "Pañcarakṣā (Matsunami Catalogue 230)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0231/manifest.json",
+      "label": {
+        "en": [
+          "Pañcarakṣā (Matsunami Catalogue 231)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0232/manifest.json",
+      "label": {
+        "en": [
+          "Pañcarakṣā (Matsunami Catalogue 232)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0233/manifest.json",
+      "label": {
+        "en": [
+          "Pañcarakṣā (Matsunami Catalogue 233)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0234/manifest.json",
+      "label": {
+        "en": [
+          "Abhisamayālaṅkāra, Abhisamayâlaṃkāra-prajñā-pāramitôpadeśa-śāstra, Pañcaviṃśatisāhasrikā Prajñāpāramitā, Pañca-viṃśati-sāhasrikā bhagavatī prajñā-pāramitā (Matsunami Catalogue 234)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0235/manifest.json",
+      "label": {
+        "en": [
+          "Abhisamayālaṅkāra, Abhisamayâlaṃkāra-prajñā-pāramitôpadeśa-śāstra, Pañcaviṃśatisāhasrikā Prajñāpāramitā, Pañca-viṃśati-sāhasrikā bhagavatī prajñā-pāramitā (Matsunami Catalogue 235)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0236/manifest.json",
+      "label": {
+        "en": [
+          "Padmapurāṇa (Matsunami Catalogue 236)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0237/manifest.json",
+      "label": {
+        "en": [
+          "Pāpaparimocana (Matsunami Catalogue 237)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0238/manifest.json",
+      "label": {
+        "en": [
+          "Pāpaparimocana (Matsunami Catalogue 238)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0239/manifest.json",
+      "label": {
+        "en": [
+          "Pāpaparimocana (Matsunami Catalogue 239)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0240/manifest.json",
+      "label": {
+        "en": [
+          "Pāpaparimocana (Matsunami Catalogue 240)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0241/manifest.json",
+      "label": {
+        "en": [
+          "Piṇḍapātrāvadāna (Matsunami Catalogue 241)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0242/manifest.json",
+      "label": {
+        "en": [
+          "Poṣadhāvadāna (Matsunami Catalogue 242)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0243/manifest.json",
+      "label": {
+        "en": [
+          "Poṣadhāvadhāna (Matsunami Catalogue 243)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0244/manifest.json",
+      "label": {
+        "en": [
+          "Poṣadhāvadāna (Matsunami Catalogue 244)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0245/manifest.json",
+      "label": {
+        "en": [
+          "Poṣadhāvadāna (Matsunami Catalogue 245)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0246/manifest.json",
+      "label": {
+        "en": [
+          "Prajñāpāramitāratnaguṇasañcayagāthā (Matsunami Catalogue 246)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0247/manifest.json",
+      "label": {
+        "en": [
+          "Prajñāpāramitāratnaguṇasañcayagāthā (Matsunami Catalogue 247)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0248/manifest.json",
+      "label": {
+        "en": [
+          "Prajñāpāramitāratnaguṇasañcayagāthā (Matsunami Catalogue 248)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0249/manifest.json",
+      "label": {
+        "en": [
+          "Pravrajyāgrahaṇavidhi with commentary (Matsunami Catalogue 249)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0250/manifest.json",
+      "label": {
+        "en": [
+          "Prasannapadā (Matsunami Catalogue 250)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0251/manifest.json",
+      "label": {
+        "en": [
+          "Prasannapadā (Matsunami Catalogue 251)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0252/manifest.json",
+      "label": {
+        "en": [
+          "Prasannapadā (Matsunami Catalogue 252)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0253/manifest.json",
+      "label": {
+        "en": [
+          "Prāyaścittaśaucācāravidhi with bhāṣā (Matsunami Catalogue 253)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0254/manifest.json",
+      "label": {
+        "en": [
+          "Baṭukabhairavasya sahasranāmastotra (Matsunami Catalogue 254)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0255/manifest.json",
+      "label": {
+        "en": [
+          "Balyarcanavidhi (Matsunami Catalogue 255)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0256/manifest.json",
+      "label": {
+        "en": [
+          "Buddhacarita (Matsunami Catalogue 256)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0257/manifest.json",
+      "label": {
+        "en": [
+          "Buddhacarita, Buddha-carita (Ch.1 -- C.8), Sumāgadhāvadāna, Sumāgadhâvadāna (being a chapter of the Vratâvadāna-mālā, cf. Mitra's N.B.L., p. 237, and p.73 Bodhisattvâvadāna-kalpa-latā XCIII).  (Matsunami Catalogue 257)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0258/manifest.json",
+      "label": {
+        "en": [
+          "Buddhabhaṭṭārakasya Daśabalāyatanastotra and 14 other stotras (Matsunami Catalogue 258)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0259/manifest.json",
+      "label": {
+        "en": [
+          "Bṛhajjātakavṛtti (Matsunami Catalogue 259)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0260/manifest.json",
+      "label": {
+        "en": [
+          "Bodhicaryāvatāra (Matsunami Catalogue 260)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0261/manifest.json",
+      "label": {
+        "en": [
+          "Bodhicaryāvatāra (Matsunami Catalogue 261)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0262/manifest.json",
+      "label": {
+        "en": [
+          "Bodhicaryāvatāra (Matsunami Catalogue 262)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0263/manifest.json",
+      "label": {
+        "en": [
+          "Bodhicaryāvatāra (Matsunami Catalogue 263)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0264/manifest.json",
+      "label": {
+        "en": [
+          "Bodhicaryāvatāra (Matsunami Catalogue 264)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0265/manifest.json",
+      "label": {
+        "en": [
+          "Bhadrakalpāvadāna (Matsunami Catalogue 265)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0266/manifest.json",
+      "label": {
+        "en": [
+          "Bhadrakalpāvadāna and other texts, Bhadra-kalpâvadāna and others, Bhadrakalpāvadāna, Bhadra-kalpâvadāna [complete one, fols. 1-285. Seee No.267], (ON.116). , Svayambhūcaityabhaṭṭārakoddeśa, Svayaṃbhū-caitya-bhaṭṭārakôddeśa [Śloka. Chs. 1-8, fols. 286-294. See No. 494.], (ON. 117) , Vyāghrīkathā(?), Vyāghrī-kathā(or jātaka)(?), [fols. 295-300, 3 leaves (fols. 301-303) are missing.], (ON. 118) , Nirvāṇa-kathā(?) [fols. 304-309. This name is written on the edges of two papers. This text may be a sort of Jātaka, because the King Aśoka and Upagupta appear in the text (308a3, 308b13), but the form is rather different from the usual one. Śloka.], (ON.118) , Kolikānām utpatti and Māyādisaptakanyāyā vivāhakathā, 1. Kolikānām utpatti (ON.118). 2. Māyâdi-saptakanyāyā(ṃ) vivāha-kathā (ON.118) [Fols. 309-312. A part of Mahā-vastu. cf. Senart's ed. pp. 348.8-357.4. See No. 297.]  (Matsunami Catalogue 266)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0267/manifest.json",
+      "label": {
+        "en": [
+          "Bhadrakalpāvadāna (Matsunami Catalogue 267)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0268/manifest.json",
+      "label": {
+        "en": [
+          "Bhadracarīpraṇidhāna (Matsunami Catalogue 268)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0269/manifest.json",
+      "label": {
+        "en": [
+          "Bhadracarīpraṇidhāna (Matsunami Catalogue 269)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0270/manifest.json",
+      "label": {
+        "en": [
+          "Bhavānīsahasranāmastava (Matsunami Catalogue 270)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0271/manifest.json",
+      "label": {
+        "en": [
+          "Bhāgavatapurāṇa (Matsunami Catalogue 271)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0272/manifest.json",
+      "label": {
+        "en": [
+          "Bhāsvatīkaraṇa (Matsunami Catalogue 272)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0273/manifest.json",
+      "label": {
+        "en": [
+          "Bhūtaḍāmaratantra (Matsunami Catalogue 273)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0274/manifest.json",
+      "label": {
+        "en": [
+          "Bhūtaḍāmara (Matsunami Catalogue 274)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0275/manifest.json",
+      "label": {
+        "en": [
+          "Mañjuśriyamūlakalpa (Matsunami Catalogue 275)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0276/manifest.json",
+      "label": {
+        "en": [
+          "Maṇikkamārāstavastotra and 42 other stotras (Matsunami Catalogue 276)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0277/manifest.json",
+      "label": {
+        "en": [
+          "Maṇicūḍāvadāna (Matsunami Catalogue 277)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0278/manifest.json",
+      "label": {
+        "en": [
+          "Maṇicūḍāvadāna (Matsunami Catalogue 278)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0279/manifest.json",
+      "label": {
+        "en": [
+          "Maṇicūḍāvadāna (Matsunami Catalogue 279)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0280/manifest.json",
+      "label": {
+        "en": [
+          "Maṇḍalopāyikā (Matsunami Catalogue 280)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0281/manifest.json",
+      "label": {
+        "en": [
+          "Madhyasiddhāntakaumudī (Matsunami Catalogue 281)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0282/manifest.json",
+      "label": {
+        "en": [
+          "Marmakaṇikā (Matsunami Catalogue 282)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0283/manifest.json",
+      "label": {
+        "en": [
+          "Marmakaṇikā (Matsunami Catalogue 283)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0284/manifest.json",
+      "label": {
+        "en": [
+          "Marmakaṇikā (Matsunami Catalogue 284)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0285/manifest.json",
+      "label": {
+        "en": [
+          "Mahajjātakamālā (Matsunami Catalogue 285)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0286/manifest.json",
+      "label": {
+        "en": [
+          "Mahākālatantra (Matsunami Catalogue 286)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0287/manifest.json",
+      "label": {
+        "en": [
+          "Mahākālarantra (Matsunami Catalogue 287)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0288/manifest.json",
+      "label": {
+        "en": [
+          "Mahākālatantra (Matsunami Catalogue 288)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0289/manifest.json",
+      "label": {
+        "en": [
+          "Mahākālasādhana (Matsunami Catalogue 289)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0290/manifest.json",
+      "label": {
+        "en": [
+          "Mahāpratisarā (Matsunami Catalogue 290)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0291/manifest.json",
+      "label": {
+        "en": [
+          "Mahāpratisarā (Matsunami Catalogue 291)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0292/manifest.json",
+      "label": {
+        "en": [
+          "Mahābhārata (Matsunami Catalogue 292)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0293/manifest.json",
+      "label": {
+        "en": [
+          "Mahābhīmasenadhāraṇī (?) (Matsunami Catalogue 293)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0294/manifest.json",
+      "label": {
+        "en": [
+          "Mahāmeghasūtra (Matsunami Catalogue 294)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0295/manifest.json",
+      "label": {
+        "en": [
+          "Mahāmeghasūtra (Matsunami Catalogue 295)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0296-1/manifest.json",
+      "label": {
+        "en": [
+          "Mahāmeghasūtra (Matsunami Catalogue 296-1)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0296-2/manifest.json",
+      "label": {
+        "en": [
+          "Nāmasaṅgīti (Matsunami Catalogue 296-2)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0297/manifest.json",
+      "label": {
+        "en": [
+          "Mahāvastu (Matsunami Catalogue 297)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0298/manifest.json",
+      "label": {
+        "en": [
+          "Mahāsukhaprakāśikā Tattvajñānasaṃsiddhiṭīkā (Matsunami Catalogue 298)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0299/manifest.json",
+      "label": {
+        "en": [
+          "Mādhavanidāna (Matsunami Catalogue 299)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0300/manifest.json",
+      "label": {
+        "en": [
+          "Mādhavanidānaparikarmacikitsā and other texts, Mādhava-nidāna-parikarma-cikitsā, etc. [medical works, Nepalese texts]., Mādhavanidānaparikarmacikitsā, Mādhava-nidāna-parikarma-cikitsā, Vaidyaśāstra, Vaidya-śāstra, Śrī-nāgārjunīya-yogaśataka-bhūtavidyā (in Candrakarā)., Viṣaharaṇādhyāya, Viṣaharaṇâdhyāya, Cāratantrādhyāya, Cāratantrâdhyāya, Miśāhaoyāoṣadhihlāya(?), Miśāhaoyā-oṣadhihlāya(?) (Matsunami Catalogue 300)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0301/manifest.json",
+      "label": {
+        "en": [
+          "Mādhavīyakālanirṇayaśloka with Vikaraṇa commentary (Matsunami Catalogue 301)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0302/manifest.json",
+      "label": {
+        "en": [
+          "Mānavadharmaśāstra (Matsunami Catalogue 302)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0303/manifest.json",
+      "label": {
+        "en": [
+          "Māndhātāvadāna (Matsunami Catalogue 303)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0304/manifest.json",
+      "label": {
+        "en": [
+          "Mārkaṇḍeyapurāṇa (Matsunami Catalogue 304)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0305/manifest.json",
+      "label": {
+        "en": [
+          "Mukhākhyāna, Mukh'-ākhyāna (of tantras) [fragment. This contains the gist of Tantras and an independent tantric work], Mārīcīmukhākhyāna, Mārīcī-mukh'-ākhyāna, uṣṇīṣavijayāmukhākhyāna, Uṣṇīṣa-vijayā-mukh'-ākhyāna, Pañcarakṣāpūjāmukhākhyāna, Paṃca-lakṣā-pūjā-mukh'-ākhyāna, Hevajramukhākhyāna, Hevajra-mukh'-ākhyāna, Śrībhūtaḍāmaramukhākhyāna, śrī-bhūta-dāmala-mukh'-ākhyāna, Grahamātṛkāpūjāvidhi, Graha-mātṛkā-pūjā-vidhi, Vajrayoginīpūjāvidhi, Vajra-yogiṇī-pūjā-vidhi, Maj~juvajramukhākhyāna, Maṃju-vajra-mukh'-ākhyāna (Matsunami Catalogue 305)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0306/manifest.json",
+      "label": {
+        "en": [
+          "Muhūrtacintāmaṇi with Pramitākṣarā ṭīkā (Matsunami Catalogue 306)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0307/manifest.json",
+      "label": {
+        "en": [
+          "Mṛtasugatiniyona and other tantric works, Mṛta-sugati-niyojana and other tantric works, Mṛtasugatiniyojana, Mṛta-sugati-niyojana, Vajrayoginīmantrārthatattvanirdeśa, Vajra-yoginī-mantrārtha-tatva-nirdeśa, Vajrayoginīmukhāgamana, Vajra-yoginī-mukh'-āgamana, Amṛtaprabhā nāma sādhanopāyikā, Amṛta-prabhā nāma sādhanopāyikā, Varṣāpaṇavidhi, Varṣāpana-vidhi , Acalasādhana, Acala-sādhana (Matsunami Catalogue 307)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0308/manifest.json",
+      "label": {
+        "en": [
+          "Mṛtyuvañcanopadeśa (Matsunami Catalogue 308)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0309/manifest.json",
+      "label": {
+        "en": [
+          "Yantrasaṃskāra, etc., Yantra-saṃskāra, etc., Yantrasaṃskāra, Yantra-saṃskāra (a tantric-work of Siva-sect), (2 leaves)., A Śaiva ritual work, A work on Vidhi of Siva-sect (Vāstu-lakṣaṇa?) (4 leaves. Fols.2 and 3 are missing. The text is written in Sanskrit in the beginning, and later in a vernaculer [Nepalese?].) (Matsunami Catalogue 309)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0310/manifest.json",
+      "label": {
+        "en": [
+          "Yogāmbaravidhi (Matsunami Catalogue 310)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0311/manifest.json",
+      "label": {
+        "en": [
+          "Yogāmbaravidhi (Matsunami Catalogue 311)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0312/manifest.json",
+      "label": {
+        "en": [
+          "Yogāmbarīsādhanaratnamālā (Matsunami Catalogue 312)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0313/manifest.json",
+      "label": {
+        "en": [
+          "Yoginījālatantra (Matsunami Catalogue 313)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0314/manifest.json",
+      "label": {
+        "en": [
+          "Yoginīvijayādhāraṇī (Matsunami Catalogue 314)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0315/manifest.json",
+      "label": {
+        "en": [
+          "Raghuvaṃśa (Matsunami Catalogue 315)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0316/manifest.json",
+      "label": {
+        "en": [
+          "Ratnamālāvadānakathā (Matsunami Catalogue 316)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0317/manifest.json",
+      "label": {
+        "en": [
+          "Ratnamālāvadānakathā (Matsunami Catalogue 317)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0318/manifest.json",
+      "label": {
+        "en": [
+          "Rasasāra (Matsunami Catalogue 318)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0319/manifest.json",
+      "label": {
+        "en": [
+          "Rāṣṭrapālaparipṛcchā (Matsunami Catalogue 319)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0320/manifest.json",
+      "label": {
+        "en": [
+          "Rūpavatyavadāna, Rūpavaty-avadāna [of the Divyāvadāna]., Dhātvāropaṇakathā, Dhātv-āropana-kathā [of the Dvāviṃśaty-avadāna-kathā]. (Matsunami Catalogue 320)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0321/manifest.json",
+      "label": {
+        "en": [
+          "Lakṣacaityabimbakathā (Matsunami Catalogue 321)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0322/manifest.json",
+      "label": {
+        "en": [
+          "Lakṣacaityavrataśṛṅgabherīkathā (Matsunami Catalogue 322)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0323/manifest.json",
+      "label": {
+        "en": [
+          "Lakṣacaityavrataśṛṅgabherīkathā (Matsunami Catalogue 323)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0324/manifest.json",
+      "label": {
+        "en": [
+          "Lakṣacaityaśṛṅgabherīkathā (Matsunami Catalogue 324)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0325/manifest.json",
+      "label": {
+        "en": [
+          "Lagnacandrikā (Matsunami Catalogue 325)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0326/manifest.json",
+      "label": {
+        "en": [
+          "Laghujātakavṛtti (Matsunami Catalogue 326)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0327/manifest.json",
+      "label": {
+        "en": [
+          "Laṅkāvatārasūtra (Matsunami Catalogue 327)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0328/manifest.json",
+      "label": {
+        "en": [
+          "Laṅkāvatārasūtra (Matsunami Catalogue 328)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0329/manifest.json",
+      "label": {
+        "en": [
+          "Laṅkāvatārasūtra (Matsunami Catalogue 329)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0330/manifest.json",
+      "label": {
+        "en": [
+          "Laṅkāvatārasūtra (Matsunami Catalogue 330)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0331/manifest.json",
+      "label": {
+        "en": [
+          "Laṅkāvatārasūtra (Matsunami Catalogue 331)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0332/manifest.json",
+      "label": {
+        "en": [
+          "Laṅkāvatārasūtra (Matsunami Catalogue 332)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0333/manifest.json",
+      "label": {
+        "en": [
+          "Laṅkāvatārasūtra and Samādhirājasūtra, Laṅkā-'vatāra-sūtra and Samādhi-rāja-sūtra [both fragment], Laṅkāvatārasūtra, Laṅkā-'vatāra-sūtra [67 leaves, See No.329.] , Samādhirājasūtra, Samādhi-rāja-sūtra [25 leaves, See No.424.] (Matsunami Catalogue 333)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0334/manifest.json",
+      "label": {
+        "en": [
+          "Lalitavistara (Matsunami Catalogue 334)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0335/manifest.json",
+      "label": {
+        "en": [
+          "Lalitavistara (Matsunami Catalogue 335)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0336/manifest.json",
+      "label": {
+        "en": [
+          "Lalitavistara (Matsunami Catalogue 336)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0337/manifest.json",
+      "label": {
+        "en": [
+          "Lalitavistara (Matsunami Catalogue 337)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0338/manifest.json",
+      "label": {
+        "en": [
+          "Lalitavistara (Matsunami Catalogue 338)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0339/manifest.json",
+      "label": {
+        "en": [
+          "Lalitavistara (Matsunami Catalogue 339)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0340/manifest.json",
+      "label": {
+        "en": [
+          "Catuḥstava with Akāriṭīkā, Catuḥstava, with Akāri-ṭīkā -a. Lokātīta-stava [fols. 1b1-9a3 cf. No. 420-XI-5]. -b. Niraupamya-stava [fols. 9a3-17a4]. -c. Acintya-stava [fols. 17a4-33a2]. -d. Paramârtha-stava [fols. 33a2-36a]. , Dohākośa with Mekhalāṭīkā, Dohakoṣa with Mekhalāṭīkā [fols. 36b-45]., Adhyātmasāraśataka, Adhyātma-sāra-śataka [fols. 1-16a]. (Matsunami Catalogue 340)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0341/manifest.json",
+      "label": {
+        "en": [
+          "Lokeśvarastuti(?) and other works,  Lokyeśvara-nāma-stuta [wrong witing for Lokeśvara-nāma-stotra?] and other short sacred writings without titles, [supposed to be a note book of someone]., Lokeśvarastuti(?), Various epithets (with dative form) of Lokeśvara (Lokeśvara-nāmā-stuta?), [pp. 1.1-2.11]., Unknown, Various epithets (with dative form) of Lokeśvara (Yama-rāja-lokeśvaraprārthanā-stotra?), [pp. 2.12-5.13]. (Matsunami Catalogue 341)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0342/manifest.json",
+      "label": {
+        "en": [
+          "Lokeśvaraśataka (Matsunami Catalogue 342)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0343/manifest.json",
+      "label": {
+        "en": [
+          "Vajraḍākamahātantra (Matsunami Catalogue 343)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0344/manifest.json",
+      "label": {
+        "en": [
+          "Vajramahākālatantrahṛdayadhāraṇī and other works (Matsunami Catalogue 344)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0345/manifest.json",
+      "label": {
+        "en": [
+          "Vajravārāhīkalpa (Matsunami Catalogue 345)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0346/manifest.json",
+      "label": {
+        "en": [
+          "Vajravārāhīkalpa (Matsunami Catalogue 346)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0347/manifest.json",
+      "label": {
+        "en": [
+          "Vajravārāhīkalpa (Matsunami Catalogue 347)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0348/manifest.json",
+      "label": {
+        "en": [
+          "Vajravīramahākālatantrahṛdaya and other works (Matsunami Catalogue 348)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0349/manifest.json",
+      "label": {
+        "en": [
+          "Vajrasattvakāyasya tathāgatajātavyāpta(?) (Matsunami Catalogue 349)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0350/manifest.json",
+      "label": {
+        "en": [
+          "Vajrāvalī (Matsunami Catalogue 350)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0351/manifest.json",
+      "label": {
+        "en": [
+          "Vajrāvalī (Matsunami Catalogue 351)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0352/manifest.json",
+      "label": {
+        "en": [
+          "Varṇasūtra and Paribhāṣāsūtra, I. Varṇa-sūtra. II. Paribhāṣā-sūtra [May be parts of some grammatical work.], Varṇasūtra, Varṇa-sūtra, Paribhāṣāsūtra, Paribhāṣā-sūtra (Matsunami Catalogue 352)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0353/manifest.json",
+      "label": {
+        "en": [
+          "Varṣāpaṇavidhi (Matsunami Catalogue 353)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0354/manifest.json",
+      "label": {
+        "en": [
+          "Vasantatilakā (Matsunami Catalogue 354)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0355/manifest.json",
+      "label": {
+        "en": [
+          "Vasudhārākalpāvadānasūtra (Matsunami Catalogue 355)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0356/manifest.json",
+      "label": {
+        "en": [
+          "Vasudhārādhāraṇī (Matsunami Catalogue 356)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0357/manifest.json",
+      "label": {
+        "en": [
+          "Vasudhārādhāraṇī (Matsunami Catalogue 357)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0358/manifest.json",
+      "label": {
+        "en": [
+          "Vasudhārādhāraṇī (Matsunami Catalogue 358)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0359/manifest.json",
+      "label": {
+        "en": [
+          "Vasudhārāvratakathāvidhi (Matsunami Catalogue 359)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0360/manifest.json",
+      "label": {
+        "en": [
+          "Vasudhārāvratapūrvamaṇḍalāgatasūryaprabhākathā (Matsunami Catalogue 360)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0361/manifest.json",
+      "label": {
+        "en": [
+          "Vasudhārāvratasarvavidhāna (Matsunami Catalogue 361)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0362/manifest.json",
+      "label": {
+        "en": [
+          "Vasudhārāvratasarvavidhāna (Matsunami Catalogue 362)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0363/manifest.json",
+      "label": {
+        "en": [
+          "Vasudhārānāmāṣṭottaraśata, Vasudhārā-nāma-'ṣṭottara-śata [fols. 1b1-4b1 ]. , Vajravidāraṇahṛdayamantradhāraṇī, Vajra-vidāraṇa-hṛdaya-mantra-dhāraṇī [fols. 4b2-7b4]. (Matsunami Catalogue 363)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0364/manifest.json",
+      "label": {
+        "en": [
+          "Vasundharāvratotpattyavadāna (Matsunami Catalogue 364)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0365/manifest.json",
+      "label": {
+        "en": [
+          "Vastrapradānāvadāna (Matsunami Catalogue 365)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0366/manifest.json",
+      "label": {
+        "en": [
+          "Vāsiṣṭhaparipṛṣṭopoṣadhāvadāna (Matsunami Catalogue 366)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0367/manifest.json",
+      "label": {
+        "en": [
+          "Vāsiṣṭhapripṛṣṭopoṣadhāvadāna (Matsunami Catalogue 367)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0368/manifest.json",
+      "label": {
+        "en": [
+          "Vāsiṣṭhaparipṛṣṭopoṣadhāvadāna and Sānumattajadoṣanirṇayā nāma bhuktāṣṭamīvratapoṣadhāvadāna, Vāśiṣṭha-paripṛṣṭôpoṣadhâvadāna and Sânumattaja-doṣa-nirṇayā nāma bhuktâṣṭami-vrata-poṣadhâvadāna [Chapters of Kalpa-drumāvadāna], Vāsiṣṭhaparipṛṣṭopoṣadāvadāba, Vāśiṣṭha-paripṛṣṭôpoṣadhâvadāna, Sānumattajadoṣanirṇayā nāma bhuktāṣṭamīvratapoṣadhāvadāna, Sânumattaja-doṣa-nirṇayā nāma bhuktâṣṭami-vrata-poṣadhâvadāna (Matsunami Catalogue 368)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0369/manifest.json",
+      "label": {
+        "en": [
+          "Vicitrakarṇikāvadāna (Matsunami Catalogue 369)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0370/manifest.json",
+      "label": {
+        "en": [
+          "Vicitrakarṇikāvadāna (Matsunami Catalogue 370)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0371/manifest.json",
+      "label": {
+        "en": [
+          "Vicitrakarṇikāvadāna (Matsunami Catalogue 371)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0372/manifest.json",
+      "label": {
+        "en": [
+          "Vicitrakarṇikāvadāna (Matsunami Catalogue 372)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0373/manifest.json",
+      "label": {
+        "en": [
+          "Vicitrakarṇikāvadāna (Matsunami Catalogue 373)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0374/manifest.json",
+      "label": {
+        "en": [
+          "Vibhūtidhāraṇa, etc. (Matsunami Catalogue 374)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0375/manifest.json",
+      "label": {
+        "en": [
+          "Viśvantarajātaka (Matsunami Catalogue 375)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0376/manifest.json",
+      "label": {
+        "en": [
+          "Viśvantarajātaka (Matsunami Catalogue 376)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0377/manifest.json",
+      "label": {
+        "en": [
+          "Viśvaprakāśābhidhāna (Matsunami Catalogue 377)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0378/manifest.json",
+      "label": {
+        "en": [
+          "Vetālapañcaviṃśati (Matsunami Catalogue 378)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0379/manifest.json",
+      "label": {
+        "en": [
+          "Vyākhyāmadhukośa (Matsunami Catalogue 379)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0380/manifest.json",
+      "label": {
+        "en": [
+          "Vratāvadānamālā, A part of the Vratâvadāna-mālā (65 leaves [fols. 1-65, 7 lines,15 1/2 × 3 3/4]), [Chs.1-3, incomplete]., Divyāvadāna, A part of the Divyāvadāna (8 leaves [fols. 1-8], 8 lines, 17 5/8 × 4 3/8 inch.), Jyotiṣkāvadāna, Jyotiṣkâvadāna (17 leaves [fols. 1-17], 8 lines, 17 5/8 × 4 3/8 inch.from the divyāvadāna, Cowell's ed. Ch. 19, pp. 262-289.)., Pañcakārṣaśatāvadāna, Pañcakārṣaśatâvadāna (1 leaf[fol. 1], 8 lines, 17 5/8 × 4 3/8 inch.from the divyāvadānamālā, cf. mitra's ṇ.B.ḷ., p.315, 19.). , Maitrakanyakāvadāna, Śaśakāvadāna, and Rudrāyanāvadāna, (25 leaf [fol. 44-69], 8 lines, 17 5/8 × 4 3/8 inch). (Matsunami Catalogue 380)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0381/manifest.json",
+      "label": {
+        "en": [
+          "Vratāvadānamālā (Matsunami Catalogue 381)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0382-A/manifest.json",
+      "label": {
+        "en": [
+          "Śatasāhasrikā prajñāpāramitā (Matsunami Catalogue 382-A)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0382-B/manifest.json",
+      "label": {
+        "en": [
+          "Śatasāhasrikā prajñāpāramitā (Matsunami Catalogue 382-B)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0382-C/manifest.json",
+      "label": {
+        "en": [
+          "Śatasāhasrikā prajñāpāramitā (Matsunami Catalogue 382-C)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0382-D/manifest.json",
+      "label": {
+        "en": [
+          "Śatasāhasrikā prajñāpāramitā (Matsunami Catalogue 382-D)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0383/manifest.json",
+      "label": {
+        "en": [
+          "Śatasāhasrikā prajñāpāramitā (Matsunami Catalogue 383)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0384/manifest.json",
+      "label": {
+        "en": [
+          "Śatasāhasrikā prajñāpāramitā (Matsunami Catalogue 384)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0385/manifest.json",
+      "label": {
+        "en": [
+          "Śaniścarātantra (Matsunami Catalogue 385)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0386/manifest.json",
+      "label": {
+        "en": [
+          "Śākyasiṃhasatotra and other stotras, Śākya-siṃha-stotra and other stotras (Stotra-collection), Śākyasiṃhastotra, Śākya-siṃha-stotra, Aṣṭamātrikānavagrahaṇeśamahākālamahābhaivīstotra(?), Aṣṭa-mātrikā-nava-grahaṇêśamahākāla-mahābhaivī-stotra (fols. 35a1-40b1), Namaskāra to many deities(?), Namaskāra to many deities [incomplete], ( fols. 40b2-44). (Matsunami Catalogue 386)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0387/manifest.json",
+      "label": {
+        "en": [
+          "Śāriputramaudgalyāyaṇayor ṛddhivivādasūtra(?) (Matsunami Catalogue 387)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0388/manifest.json",
+      "label": {
+        "en": [
+          "Śiśubodhinī (Matsunami Catalogue 388)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0389/manifest.json",
+      "label": {
+        "en": [
+          "Śiṣyalekha (Matsunami Catalogue 389)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0390/manifest.json",
+      "label": {
+        "en": [
+          "Śṛṅgabheryavadāna (Matsunami Catalogue 390)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0391/manifest.json",
+      "label": {
+        "en": [
+          "Sragdharāṭīkā (Matsunami Catalogue 391)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0392/manifest.json",
+      "label": {
+        "en": [
+          "Sragdharāṭīkā (Matsunami Catalogue 392)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0393/manifest.json",
+      "label": {
+        "en": [
+          "Sragdharāstuti (Matsunami Catalogue 393)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0394/manifest.json",
+      "label": {
+        "en": [
+          "Sragdharāstuti (Matsunami Catalogue 394)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0395/manifest.json",
+      "label": {
+        "en": [
+          "Sragdharāstotra (Matsunami Catalogue 395)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0396/manifest.json",
+      "label": {
+        "en": [
+          "Sragdharāstotra (Matsunami Catalogue 396)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0397/manifest.json",
+      "label": {
+        "en": [
+          "? (Matsunami Catalogue 397)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0398/manifest.json",
+      "label": {
+        "en": [
+          "Śroṇakoṭikarṇāvadāna (Matsunami Catalogue 398)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0399/manifest.json",
+      "label": {
+        "en": [
+          "Ṣaṭpañcāśikā (Matsunami Catalogue 399)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0400/manifest.json",
+      "label": {
+        "en": [
+          "Ṣaṭpañcāśikāṭīkā (Matsunami Catalogue 400)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0401/manifest.json",
+      "label": {
+        "en": [
+          "Saṃvarodayatantra (Matsunami Catalogue 401)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0402/manifest.json",
+      "label": {
+        "en": [
+          "Saṃvarodayatantra (Matsunami Catalogue 402)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0403/manifest.json",
+      "label": {
+        "en": [
+          "Saṃvarodayatantra (Matsunami Catalogue 403)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0404/manifest.json",
+      "label": {
+        "en": [
+          "Saṃvarodayatantra (Matsunami Catalogue 404)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0405/manifest.json",
+      "label": {
+        "en": [
+          "Saṃvarodayatantra (Matsunami Catalogue 405)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0406/manifest.json",
+      "label": {
+        "en": [
+          "Saṅgharakṣitāvadāna (Matsunami Catalogue 406)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0407/manifest.json",
+      "label": {
+        "en": [
+          "Saccakatāḍanāvadāna(?) (Matsunami Catalogue 407)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0408/manifest.json",
+      "label": {
+        "en": [
+          "Saddharmapuṇḍarīkasūtra (Matsunami Catalogue 408)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0409/manifest.json",
+      "label": {
+        "en": [
+          "Saddharmapuṇḍarīkasūtra (Matsunami Catalogue 409)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0410/manifest.json",
+      "label": {
+        "en": [
+          "Saddharmapuṇḍarīkasūtra (Matsunami Catalogue 410)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0411/manifest.json",
+      "label": {
+        "en": [
+          "Saddharmapuṇḍarīkasūtra (Matsunami Catalogue 411)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0412/manifest.json",
+      "label": {
+        "en": [
+          "Saddharmapuṇḍarīkasūtra (Matsunami Catalogue 412)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0413/manifest.json",
+      "label": {
+        "en": [
+          "Saddharmapuṇḍarīkasūtra (Matsunami Catalogue 413)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0414/manifest.json",
+      "label": {
+        "en": [
+          "Saddarmapuṇḍarīkasūtra (Matsunami Catalogue 414)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0415/manifest.json",
+      "label": {
+        "en": [
+          "Saddharmapuṇḍarīkasūtra (Matsunami Catalogue 415)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0416/manifest.json",
+      "label": {
+        "en": [
+          "Saptaśatikā prajñāpāramitā, Saptaśatikā prajñā-pāramitā (fols. 1b1-28b), (ON.11) , Prajñāpāramitādhāraṇī, Prajñā-pāramitā dhāraṇī (fols. 28b5-28b7), (ONs. 184, 346). , Abhisamayālaṅkāra, Abhisamayâlaṃkāra nāma prajñā-pāramitôpadeśa-śāstra (fols. 28b7-39a7), (ONs. 184, 346).  (Matsunami Catalogue 416)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0417/manifest.json",
+      "label": {
+        "en": [
+          "Saptaśatikā prajñāpāramitā (Matsunami Catalogue 417)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0418/manifest.json",
+      "label": {
+        "en": [
+          "Saptaśatikā prajñāpāramitā and a Dhāraṇī collection (Matsunami Catalogue 418)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0419/manifest.json",
+      "label": {
+        "en": [
+          "Saptaśatikā prajñāpāramitā, Saptaśatikā prajñāpāramitā (fols. 1b1-39b4) , Abhisamayālaṅkāra, Abhisamayâlaṃkāra-prajñā-pāramitôpadeśa-śāstra (fols. 39b4-55b4) , Dhāraṇīs, Dhāraṇīs (fols. 55b4-312a6)  (Matsunami Catalogue 419)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0420/manifest.json",
+      "label": {
+        "en": [
+          "Saptaśatikā prajñāpāramitā and dhāraṇīs,  Sapta-śatikā prajñā-pāramitā and Dhāraṇīs  (Matsunami Catalogue 420)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0421/manifest.json",
+      "label": {
+        "en": [
+          "Saptaśatikā prajñāpāramitā and Dhāraṇīs, Sapta-śatikā prajñā-pāramitā and Dhāraṇīs, Sarvadurgatipariśodhanadhāraṇī (?),  Sarva-durgati-pariśodhana-rājasya (only a part of this text[?], 13 leaves, fols. 147-159. , Sītātapatrādhāraṇī (?),  Ārya-sarva-tathāgato uṣṇīṣa-sitātapatrā nāmâparājitāṃ pratyaṃ ---- girā mahāvidyā-rā ---- (16 leaves, fols. 147-162). , Dhvajāgrakeyurādhāraṇī,  Ārya-dhvajâgra-keyūrā nāma dhāraṇī (3 leaves, fols. 133-135). , Pañcarakṣā,  The last leaf of a Pañcarakṣā (1 leaf, pagination 146).  (Matsunami Catalogue 421)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0422/manifest.json",
+      "label": {
+        "en": [
+          "Sabhātaraṅgapustaka (Matsunami Catalogue 422)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0423/manifest.json",
+      "label": {
+        "en": [
+          "Sabhātaraṅgiṇī (Matsunami Catalogue 423)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0424/manifest.json",
+      "label": {
+        "en": [
+          "Samādhirājasūtra (Matsunami Catalogue 424)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0425/manifest.json",
+      "label": {
+        "en": [
+          "Samādhirājasūtra (Matsunami Catalogue 425)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0426/manifest.json",
+      "label": {
+        "en": [
+          "Samādhirājasūtra (Matsunami Catalogue 426)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0427/manifest.json",
+      "label": {
+        "en": [
+          "Sampuṭodbhavatantra (Matsunami Catalogue 427)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0428/manifest.json",
+      "label": {
+        "en": [
+          "Sampuṭodbhavatantra (Matsunami Catalogue 428)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0429/manifest.json",
+      "label": {
+        "en": [
+          "Sambhadrāvadānamālā (Matsunami Catalogue 429)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0430/manifest.json",
+      "label": {
+        "en": [
+          "Sarvajñājinadhāturatnakaraṇḍaka (Matsunami Catalogue 430)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0431/manifest.json",
+      "label": {
+        "en": [
+          "Sarvajñamitrāvadāna (Matsunami Catalogue 431)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0432/manifest.json",
+      "label": {
+        "en": [
+          "Sarvajñamitrāvadāna (Matsunami Catalogue 432)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0433/manifest.json",
+      "label": {
+        "en": [
+          "Sarvajñamitrāvadāna (Matsunami Catalogue 433)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0434/manifest.json",
+      "label": {
+        "en": [
+          "Sarvajñamitrāvadāna (Matsunami Catalogue 434)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0435/manifest.json",
+      "label": {
+        "en": [
+          "Guhyasamājatantra (Matsunami Catalogue 435)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0436/manifest.json",
+      "label": {
+        "en": [
+          "Guhyasamājatantra (Matsunami Catalogue 436)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0437/manifest.json",
+      "label": {
+        "en": [
+          "Guhyasamājatantra (Pūrva- and Parārdha), Sarva-tathāgata-kāya-vāk-citta-rahasya-guhyasamāja (Pūrvârdha and Parârdha), Guhyasamājatantra (Pūrvārdha),  Sarva-tathāgata-kāya-vāk-citta-rahasya-guhyasamāja (Pūrvârdha), Guhyasamājatantra (Parārdha),  Sarva-tathāgata-kāya-vāk-citta-rahasya-guhyasamāja (Parārdha)  (Matsunami Catalogue 437)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0438/manifest.json",
+      "label": {
+        "en": [
+          "Guhyasamājatantra (Parārdha) (Matsunami Catalogue 438)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0439/manifest.json",
+      "label": {
+        "en": [
+          "Guhyasamājatantra (Pūrva- and Parārdha) (Matsunami Catalogue 439)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0440/manifest.json",
+      "label": {
+        "en": [
+          "Sarvatathāgatoṣṇīṣasitātapatrāvidyārājñī (Matsunami Catalogue 440)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0441/manifest.json",
+      "label": {
+        "en": [
+          "Sarvatathāgatoṣṇīṣasitātapatrāvidyārājñī,  Sarva-tathāgatôṣṇīṣa-sitâtapatrā nāmâparājitā pratyaṅgirā mahā-vidyā-rājñī mahā-pratyaṅgirā [fol.1b-18a3]. , Dhvajāgrakeyurīdhāraṇī,  Dhvajâgra-keyūrī (nāma aparājitā dhāraṇī) [fols. 18a4-22 b].  (Matsunami Catalogue 441)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0442/manifest.json",
+      "label": {
+        "en": [
+          "Sarvatathāgatoṣṇīṣasitātapatrāvidyārājñī (Matsunami Catalogue 442)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0443/manifest.json",
+      "label": {
+        "en": [
+          "Sarvatathāgatoṣṇīṣasitātapatrāmahāpratyaṅgirā (Matsunami Catalogue 443)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0444/manifest.json",
+      "label": {
+        "en": [
+          "Sarvatathāgatoṣṇīṣasitātapatrāmahāpratyaṅgirā (Matsunami Catalogue 444)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0445/manifest.json",
+      "label": {
+        "en": [
+          "Sarvatathāgatoṣṇīṣasitātapatrāmahāpratyaṅgirā (Matsunami Catalogue 445)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0446/manifest.json",
+      "label": {
+        "en": [
+          "Sarvadurgatipariśodhana(?),  Sarva-durgati-pariśodhana (pp. 2.1-61.1), [Extracts of dhāraṇīs with the illustration of 144 mudrās. Cf. No.449]. , Asthiprakṣālanavidhi(?),  Aṣṭi-prakṣāraṇa-vidhi (pp. 61.3-68.5) , Rajaḥpravāhavidhi(?),  Raja-pravāha-vidhi (pp. 68.6-70.2)  (Matsunami Catalogue 446)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0447/manifest.json",
+      "label": {
+        "en": [
+          "Sarvadurgatipariśodhana (Matsunami Catalogue 447)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0448/manifest.json",
+      "label": {
+        "en": [
+          "Sarvadurgatipariśodhana (Matsunami Catalogue 448)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0449/manifest.json",
+      "label": {
+        "en": [
+          "Sarvadurgatipariśodhana (Matsunami Catalogue 449)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0450/manifest.json",
+      "label": {
+        "en": [
+          "Saṃvarodayā nāma maṇḍalopāyikā (?) (Matsunami Catalogue 450)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0451/manifest.json",
+      "label": {
+        "en": [
+          "Sādhanasamuccaya (Matsunami Catalogue 451)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0452/manifest.json",
+      "label": {
+        "en": [
+          "Sādhanasamuccaya (Matsunami Catalogue 452)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0453/manifest.json",
+      "label": {
+        "en": [
+          "Sādhanasamuccaya (Matsunami Catalogue 453)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0454/manifest.json",
+      "label": {
+        "en": [
+          "Sādhanasamuccaya (Matsunami Catalogue 454)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0455/manifest.json",
+      "label": {
+        "en": [
+          "Kṣaṇabhaṅgasiddhi (Matsunami Catalogue 455)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0456/manifest.json",
+      "label": {
+        "en": [
+          "Sāmānyasiddhidūṣaṇa (Matsunami Catalogue 456)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0457/manifest.json",
+      "label": {
+        "en": [
+          "Sāmānyasiddhidūṣaṇa (Matsunami Catalogue 457)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0458/manifest.json",
+      "label": {
+        "en": [
+          "Sārasvataṭīkā (Matsunami Catalogue 458)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0459/manifest.json",
+      "label": {
+        "en": [
+          "Sārasvataṭīkā (Matsunami Catalogue 459)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0460/manifest.json",
+      "label": {
+        "en": [
+          "Sārasvatīprakriyā (Matsunami Catalogue 460)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0461/manifest.json",
+      "label": {
+        "en": [
+          "Sārasvatīprakriyā (Matsunami Catalogue 461)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0462/manifest.json",
+      "label": {
+        "en": [
+          "Sārasvatīprakriyā (Matsunami Catalogue 462)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0463/manifest.json",
+      "label": {
+        "en": [
+          "Sārasvatīprakriyā (Matsunami Catalogue 463)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0464/manifest.json",
+      "label": {
+        "en": [
+          "Sārasvatīprakriyā (Matsunami Catalogue 464)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0465/manifest.json",
+      "label": {
+        "en": [
+          "Sārasvatīprakriyā (Matsunami Catalogue 465)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0466/manifest.json",
+      "label": {
+        "en": [
+          "Siddhināgārjuna and other medical works (Matsunami Catalogue 466)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0467/manifest.json",
+      "label": {
+        "en": [
+          "Sukhāvatīvyūha (Matsunami Catalogue 467)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0468/manifest.json",
+      "label": {
+        "en": [
+          "Sukhāvatīvyūha (Matsunami Catalogue 468)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0469/manifest.json",
+      "label": {
+        "en": [
+          "Sukhāvatīvyūha (Matsunami Catalogue 469)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0470/manifest.json",
+      "label": {
+        "en": [
+          "Sukhāvatīvyūha (Matsunami Catalogue 470)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0471/manifest.json",
+      "label": {
+        "en": [
+          "Sukhāvatīvyūha (Matsunami Catalogue 471)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0472/manifest.json",
+      "label": {
+        "en": [
+          "Sukhāvatīvyūha (Matsunami Catalogue 472)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0473/manifest.json",
+      "label": {
+        "en": [
+          "Sugatāvadāna (Matsunami Catalogue 473)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0474/manifest.json",
+      "label": {
+        "en": [
+          "Sugatāvadāna (Matsunami Catalogue 474)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0475/manifest.json",
+      "label": {
+        "en": [
+          "Sugatāvadāna (Matsunami Catalogue 475)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0476/manifest.json",
+      "label": {
+        "en": [
+          "Suvandrāvadāna and other works,  Sucandrâvadāna and others. , Sucandrāvadāna,  Sucandrâvadāna 15 leaves [fols. 1-24], (fols. 15-23 are missing, see No.355) , Fragment of a tantric work,  Fragment of a tantric work (a leaf only). , Dhāraṇī collection,  Dhāraṇī collection 15 leaves, fols. 4-24, 10-13, 15 and 18 missing. Same contents as Nos.191,192,199-II, etc. , ?,  Hemāṃgāvyā(!) dhāraṇī(?) (2 leaves, Dhāraṇī only of No.419-III-65). , Nāmasaṅgīti,  Nāma-saṃgīti (Last part of -), (10 leaves, cf. No. 207) , ?,  A text about the lakṣaṇa of pratimā (incomplete, 20 leaves) , Sarvatathāgatasitātapatrā mahāpratyaṅgirā,  Sarva-tathāgata-sitâtapatrā nāmâparājitā mahāpratyaṅgirī (14 leaves, cf. Nso. 441-I etc.) , ?,  Pīthāvarāstavatu(!)tra(?) ( = Pīṭhābalā-stava-stotra or Pīṭhā-stava-stotra, 7 leaves)  (Matsunami Catalogue 476)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0477/manifest.json",
+      "label": {
+        "en": [
+          "Sudhanakumārāvadāna,  Sudhana-kumārâvadāna [20 leaves, being the 32nd story of Avadāna-ratna-mālā. See No.27]. , Lakṣacaityavrataśṛṅgabherīkathā,  Lakṣa-caitya-vrata-śṛṅga-bherī-kathā (15 leaves. See No.390. Cf. No.323)  (Matsunami Catalogue 477)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0478/manifest.json",
+      "label": {
+        "en": [
+          "Supriyamahāsārthavāhāvadāna (Matsunami Catalogue 478)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0479/manifest.json",
+      "label": {
+        "en": [
+          "Supriyasārthavāhajanma (Matsunami Catalogue 479)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0480/manifest.json",
+      "label": {
+        "en": [
+          "Subhāṣitaratnakaraṇḍaka (Matsunami Catalogue 480)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0481/manifest.json",
+      "label": {
+        "en": [
+          "Suvarṇaprabhāsa (Matsunami Catalogue 481)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0482/manifest.json",
+      "label": {
+        "en": [
+          "Suvarṇaprabhāsa (Matsunami Catalogue 482)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0483/manifest.json",
+      "label": {
+        "en": [
+          "Suvarṇaprabhāsa (Matsunami Catalogue 483)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0484/manifest.json",
+      "label": {
+        "en": [
+          "? (Matsunami Catalogue 484)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0485/manifest.json",
+      "label": {
+        "en": [
+          "Sūryaśataka (Matsunami Catalogue 485)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0486/manifest.json",
+      "label": {
+        "en": [
+          "Skandapurāṇa (Matsunami Catalogue 486)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0487/manifest.json",
+      "label": {
+        "en": [
+          "Two grammatical works of Bhīmasvāmībhūsura, Two grammatical works of Bhīmasvāmībhūsura, Syādyantaviṣaya,  Sy-ādy-anta-viṣaya , Padabhāskara,  Pada-bhāskara  (Matsunami Catalogue 487)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0488/manifest.json",
+      "label": {
+        "en": [
+          "Svapnacintāmaṇi (Matsunami Catalogue 488)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0489/manifest.json",
+      "label": {
+        "en": [
+          "Svapnādhyāya,  Svapnâdhyāya , (Apara-)svapnādhyāya, Napara(?)-svapnâdhyāya (The begining of --)  (Matsunami Catalogue 489)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0490/manifest.json",
+      "label": {
+        "en": [
+          "Svayambhūcaityabhaṭṭārakoddeśa (Matsunami Catalogue 490)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0491/manifest.json",
+      "label": {
+        "en": [
+          "Svayambhūcaityabhaṭṭārakoddeśa (Matsunami Catalogue 491)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0492/manifest.json",
+      "label": {
+        "en": [
+          "Svayambhūcaityabhaṭṭārakoddeśa (Matsunami Catalogue 492)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0493/manifest.json",
+      "label": {
+        "en": [
+          "Svayambhūcaityabhaṭṭārakoddeśa (Matsunami Catalogue 493)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0494/manifest.json",
+      "label": {
+        "en": [
+          "Svayambhūcaityabhaṭṭārakoddeśa (Matsunami Catalogue 494)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0495/manifest.json",
+      "label": {
+        "en": [
+          "Scayambhūcaityabhaṭṭārakoddeśa (Matsunami Catalogue 495)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0496/manifest.json",
+      "label": {
+        "en": [
+          "Svayambhūpurāṇa (Matsunami Catalogue 496)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0497/manifest.json",
+      "label": {
+        "en": [
+          "Svayambhūpurāṇa (Matsunami Catalogue 497)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0498/manifest.json",
+      "label": {
+        "en": [
+          "Svayambhūpurāṇa (Matsunami Catalogue 498)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0499/manifest.json",
+      "label": {
+        "en": [
+          "Svayambhūpurāṇa (Matsunami Catalogue 499)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0500/manifest.json",
+      "label": {
+        "en": [
+          "Svasthānaparameśvaradharmavratakathā(?) (Matsunami Catalogue 500)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0501/manifest.json",
+      "label": {
+        "en": [
+          "Haramekhalā (Matsunami Catalogue 501)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0502/manifest.json",
+      "label": {
+        "en": [
+          "Haramekhalā (Matsunami Catalogue 502)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0503/manifest.json",
+      "label": {
+        "en": [
+          "Harivaṃśa (Matsunami Catalogue 503)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0504/manifest.json",
+      "label": {
+        "en": [
+          "Hitopadeśa (Matsunami Catalogue 504)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0505/manifest.json",
+      "label": {
+        "en": [
+          "Hitopadeśa (Matsunami Catalogue 505)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0506/manifest.json",
+      "label": {
+        "en": [
+          "Hitopadeśabhāṣā (Matsunami Catalogue 506)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0507/manifest.json",
+      "label": {
+        "en": [
+          "Hiraṇyapāṇyavadāna (Matsunami Catalogue 507)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0508/manifest.json",
+      "label": {
+        "en": [
+          "Herukādyavajravārāhīyogarāja (Matsunami Catalogue 508)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0509/manifest.json",
+      "label": {
+        "en": [
+          "Hevajratantra (Matsunami Catalogue 509)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0510/manifest.json",
+      "label": {
+        "en": [
+          "Hevajratantra (Matsunami Catalogue 510)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0511/manifest.json",
+      "label": {
+        "en": [
+          "Hevajratantra (Matsunami Catalogue 511)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0512/manifest.json",
+      "label": {
+        "en": [
+          "Hevajratantra (Matsunami Catalogue 512)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0513/manifest.json",
+      "label": {
+        "en": [
+          "Muktāvalī Hevajrapañjikā (Matsunami Catalogue 513)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0514/manifest.json",
+      "label": {
+        "en": [
+          "Homavidhi (Matsunami Catalogue 514)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0515/manifest.json",
+      "label": {
+        "en": [
+          "Title unknown (Matsunami Catalogue 515)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0516/manifest.json",
+      "label": {
+        "en": [
+          "Fragments,  Fragments (Collection of --) , ?, ?2 leaves (fols. 1 and 2). , ?, ? 2 leaves. , matsunami, ? 18 leaves(fols. 1-21. Fols. 2, 3 and 5 are missing). (Matsunami Catalogue 516)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0517/manifest.json",
+      "label": {
+        "en": [
+          "Fragments, Fragments, Satsukhāvabodhana,  The end part of Sat-sukhâvabodhana , Dohākośa,  Doha-koṣa  (Matsunami Catalogue 517)"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/skt2020/0518/manifest.json",
+      "label": {
+        "en": [
+          "Fragments (Matsunami Catalogue 518)"
+        ]
+      }
+    }
+  ]
+}

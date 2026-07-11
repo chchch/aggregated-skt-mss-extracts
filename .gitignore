@@ -1,0 +1,7 @@
+# Ignore raw metadata folders
+cambridge/
+tst/
+tokyo/
+pandit_html/
+ngmcp/
+pandit_get.py
