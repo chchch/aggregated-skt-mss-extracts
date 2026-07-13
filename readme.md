@@ -20,3 +20,6 @@ The data in this repository is drawn from the following digital library projects
 
 ## ⚠️ Disclaimer
 This repository is an aggregation of external datasets meant to facilitate broad text searching. The original content and source repositories should always be consulted for complete metadata and to verify that the extracted texts have not been erroneously rendered during the extraction process.
+
+## Credit
+This repository and its data extraction pipeline were developed by Ryan Conlon for the [Intellexus Project](https://intellexus.net/). The original extraction scripts and the repository data structure are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Please note: this license applies only to the code and structure of this repository. The data contained within the individual CSV files retains the specific licenses of their original sources.
